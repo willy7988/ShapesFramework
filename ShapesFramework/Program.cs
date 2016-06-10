@@ -12,6 +12,7 @@ namespace ShapesFramework
         {
 
             System.Console.WriteLine("Hello Kitty!");
+
             System.Console.ReadLine();
         }
     }
