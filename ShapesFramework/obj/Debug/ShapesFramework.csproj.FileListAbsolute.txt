@@ -1,1 +1,6 @@
 C:\Users\TP1602009\Documents\GitHub\ShapesFramework\ShapesFramework\bin\Debug\ShapesFramework.exe.config
+C:\Users\TP1602009\Documents\GitHub\ShapesFramework\ShapesFramework\bin\Debug\ShapesFramework.exe
+C:\Users\TP1602009\Documents\GitHub\ShapesFramework\ShapesFramework\bin\Debug\ShapesFramework.pdb
+C:\Users\TP1602009\Documents\GitHub\ShapesFramework\ShapesFramework\obj\Debug\ShapesFramework.csprojResolveAssemblyReference.cache
+C:\Users\TP1602009\Documents\GitHub\ShapesFramework\ShapesFramework\obj\Debug\ShapesFramework.exe
+C:\Users\TP1602009\Documents\GitHub\ShapesFramework\ShapesFramework\obj\Debug\ShapesFramework.pdb
