@@ -10,7 +10,8 @@ namespace ShapesFramework
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello Kitty World!");
+
+            System.Console.WriteLine("Hello World!");
 
             System.Console.ReadLine();
         }
